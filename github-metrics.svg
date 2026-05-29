@@ -1599,7 +1599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1661,7 +1661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OWASP/CheatSheetSeries</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.</div>
@@ -1847,7 +1847,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2026, 06:57:56 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2026, 19:34:30 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
