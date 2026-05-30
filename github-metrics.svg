@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            505 Commits
+                            507 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -560,7 +560,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Kernel Log 2.6.30: New File Systems and Modular Architecture</div>
+                                <div class="title">Why my single Next.js app runs 4 different domains (and how the proxy.ts decides who sees what)</div>
                                 <div class="date">30 May 2026</div>
                             </div>
                         </div>
@@ -569,7 +569,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">React Performance: From Sluggish to Lightning</div>
+                                <div class="title">Coding agents should not hold write credentials.</div>
                                 <div class="date">30 May 2026</div>
                             </div>
                         </div>
@@ -578,7 +578,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I Built and Deployed a Secure AI Text Editor Entirely on a Mobile Phone</div>
+                                <div class="title">Making Codex CLI and Codex.app Use mise-managed Ruby and Node.js</div>
                                 <div class="date">30 May 2026</div>
                             </div>
                         </div>
@@ -587,7 +587,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What's the difference IoC and Dependency Injection?</div>
+                                <div class="title">Top CLI AI Coding Agents to Use in 2026</div>
                                 <div class="date">30 May 2026</div>
                             </div>
                         </div>
@@ -1842,7 +1842,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2026, 15:20:23 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2026, 17:58:39 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
