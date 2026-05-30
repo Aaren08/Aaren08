@@ -35,7 +35,7 @@ const engineer = {
   architecture: ["Microservices", "Event-Driven", "JAMstack", "API-First"],
   frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
   backend: ["Node.js", "Express", "REST", "WebSockets"],
-  databases: ["PostgreSQL", "MongoDB", "Redis", "Firebase"],
+  databases: ["PostgreSQL", "MongoDB", "Redis", "Drizzle", "Firebase"],
   infrastructure: ["Docker", "GitHub Actions", "Vercel", "CI/CD"],
 
   currentlyBuilding:
@@ -168,16 +168,6 @@ uptime: 493 commits | 36 repositories | 16 contributions
 <br/>
 
 ### Analytics
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Aaren08&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=94a3b8&bg_color=050b18&ring_color=8B5CF6&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaren08&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=94a3b8&bg_color=050b18&langs_count=6"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
