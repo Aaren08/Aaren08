@@ -15,6 +15,7 @@ jobs:
     steps:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: github-metrics.svg
 
@@ -64,8 +65,9 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 7
-          plugin_activity_filter: push
+          plugin_activity_filter: push, pr, issue, release, review # explicit whitelist, not "all"
           plugin_activity_visibility: public
+          plugin_activity_ignored: github-actions[bot], dependabot[bot]
 
           # Repositories
           plugin_repositories: yes
@@ -92,5 +94,6 @@ jobs:
           plugin_introduction_title: yes
 
           # Output
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           committer_message: "chore: update metrics [skip ci]"
