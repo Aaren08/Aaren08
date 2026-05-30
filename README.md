@@ -13,8 +13,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white&labelColor=0F172A)](https://your-portfolio.com)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0F172A)](https://www.linkedin.com/in/abdal-asad-671496356/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Aaren08)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0F172A)](mailto:engrabdalasad@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-0F172A?style=flat-square&logo=discord&logoColor=5865F2&labelColor=0F172A)](<[abdalasad_70974](https://discord.gg/XwYahn26x)>)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0F172A)](mailto:engrabdalasad@gmail.com)&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-0F172A?style=flat-square&logo=discord&logoColor=5865F2&labelColor=0F172A)](https://discord.gg/Jzn5RTeCyv)
 
 </div>
 
@@ -115,7 +115,7 @@ const engineer = {
 
 #### System Layer
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,drizzle,redis,firebase" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,firebase" height="40"/>
 
 #### Infrastructure
 
@@ -198,7 +198,7 @@ uptime: 493 commits | 36 repositories | 16 contributions
 
 ### [BookWise](https://github.com/Aaren08/bookwise-JSM)
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma`
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM`
 
 > Enterprise-grade library management platform with dual-surface architecture — public reader interface and protected admin panel. Implements complete auth, real-time features, and transactional email integration.
 

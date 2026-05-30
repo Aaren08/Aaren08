@@ -61,25 +61,15 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
 
-          # Activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 7
-          plugin_activity_filter: push, pr, issue, release, review # explicit whitelist, not "all"
-          plugin_activity_visibility: public
-          plugin_activity_ignored: github-actions[bot], dependabot[bot]
+          # RSS Feed
+          plugin_rss: yes
+          plugin_rss_source: https://dev.to/feed
+          plugin_rss_limit: 4
 
           # Repositories
           plugin_repositories: yes
           plugin_repositories_featured: Aaren08/bookwise-JSM
           plugin_repositories_order: featured, pinned, starred, random
-
-          # Habits
-          plugin_habits: yes
-          plugin_habits_days: 7
-          plugin_habits_from: 10
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
 
           # Lines
           plugin_lines: yes
