@@ -1,174 +1,282 @@
-````md
 <div align="center">
 
-# Aaren
-
-### Full Stack Engineer
-
-Building scalable, performant, and polished web applications with a strong focus on modern architecture, developer experience, and product quality.
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaren08)
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Modern+Web+Architecture;Performance+Focused+Development;Scalable+Frontend+Systems;Developer+Experience+Enthusiast" />
+<img src=".github/assets/banner.svg" alt="Aaren — Full Stack Engineer" width="100%"/>
 
 </div>
 
----
+<img src=".github/assets/separator.svg" width="100%"/>
 
-# Engineering Focus
+<br/>
 
-```ts
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white&labelColor=0F172A)](https://your-portfolio.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0F172A)](https://linkedin.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Aaren08)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0F172A)](mailto:your@email.com)
+
+</div>
+
+<br/>
+
+<img src=".github/assets/separator-thin.svg" width="100%"/>
+
+<br/>
+
+## `> whoami`
+
+```typescript
 const engineer = {
-  name: "Aaren",
+  name: "Abdal Asad",
   role: "Full Stack Engineer",
-  specialization: [
-    "Frontend Architecture",
-    "Backend Systems",
-    "Developer Experience",
-    "Performance Optimization",
-    "Modern UI Engineering",
-  ],
-  currentlyLearning: [
-    "Generative AI",
-    "System Design",
-    "Scalable Infrastructure",
-  ],
+  location: "Pakistan",
+
+  architecture: ["Microservices", "Event-Driven", "JAMstack", "API-First"],
+  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "Drizzle", "REST", "WebSockets"],
+  databases: ["PostgreSQL", "MongoDB", "Redis", "Firebase"],
+  infrastructure: ["Docker", "GitHub Actions", "Vercel", "CI/CD"],
+
+  currentlyBuilding:
+    "Scalable full-stack applications with AI-integrated workflows",
+  openTo: ["Collaboration", "OSS contributions", "Product engineering"],
+
   philosophy: [
-    "Performance-first engineering",
-    "Scalable and maintainable systems",
-    "Security-conscious implementation",
-    "Clean developer experience",
-    "Polished product thinking",
+    "Performance is a feature, not an afterthought",
+    "Clean code is a form of respect for future maintainers",
+    "The best architecture is the one that's never noticed",
   ],
-};
-```
-````
-
----
-
-# Core Technologies
-
-<div align="center">
-
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
-
-## Tooling & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,bash,vscode" />
-
-## Currently Exploring
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-
-</div>
-
-```md
-# Metrics Dashboard
-
-<div align="center">
-
-<img src="./github-metrics.svg" alt="Metrics" width="100%" />
-
-</div>
+} as const;
 ```
 
-# GitHub Analytics
+<br/>
+<img src=".github/assets/separator-thin.svg" width="100%"/>
+
+## `> engineering-principles`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`[ Architecture ]`**
+
+- Design for scale from day one
+- Decouple business logic from framework concerns
+- API contracts as the source of truth
+- Stateless services, stateful data layers
+
+</td>
+<td width="50%" valign="top">
+
+**`[ Execution ]`**
+
+- Performance budgets enforced at CI level
+- Security-conscious by default, not as an add-on
+- Observability built in, not bolted on
+- Test at the boundary, not the implementation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`[ Frontend ]`**
+
+- Component APIs that read like documentation
+- Render performance as a first-class concern
+- Accessibility is not optional
+- Design systems over one-off components
+
+</td>
+<td width="50%" valign="top">
+
+**`[ Developer Experience ]`**
+
+- Automate everything repeatable
+- Linting + formatting enforced, not suggested
+- Git history tells a story
+- README-driven development
+
+</td>
+</tr>
+</table>
+
+<br/>
+<img src=".github/assets/separator.svg" width="100%"/>
+
+## `> core-stack`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaren08&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=cbd5e1" />
+#### Interface Layer
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaren08&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=cbd5e1" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css" height="40"/>
 
-</div>
+#### System Layer
 
-<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis,firebase" height="40"/>
 
-<div align="center">
+#### Infrastructure
 
-<img src="https://streak-stats.demolab.com?user=Aaren08&theme=transparent&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,bash,postman,vscode,linux" height="40"/>
 
-</div>
+#### Expanding Into
 
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaren08&bg_color=0F172A&color=8B5CF6&line=06B6D4&point=ffffff&area=true&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,aws" height="40"/>
 
 </div>
 
----
+<br/>
+<img src=".github/assets/separator-thin.svg" width="100%"/>
 
-# Engineering Principles
+## `> current-focus`
 
-- Performance-first development
-- Scalable frontend architecture
-- Maintainable backend systems
-- Security-conscious engineering
-- Clean UI and developer experience
-- Product-oriented problem solving
-- Long-term maintainability over shortcuts
+```sh
+$ aaren status --verbose
 
----
+[✓] Building    → Scalable full-stack applications (Next.js + Node + PostgreSQL)
+[✓] Studying    → System design patterns & distributed systems
+[✓] Exploring   → AI-integrated developer workflows & LLM tooling
+[✓] Improving   → CI/CD pipelines & cloud infrastructure
+[~] Next        → Open-source contributions to developer tooling
 
-# Current Focus
-
-```txt
-→ Building scalable full stack applications
-→ Improving system design knowledge
-→ Exploring AI-integrated developer workflows
-→ Crafting polished user experiences
-→ Optimizing engineering workflows
+uptime: 493 commits | 36 repositories | 16 contributions
 ```
 
----
+<br/>
+<img src=".github/assets/separator.svg" width="100%"/>
 
-# Open Source & Collaboration
-
-I enjoy building modern web experiences, refining engineering workflows, and continuously improving system architecture through hands-on development and experimentation.
-
-Open to:
-
-- meaningful collaborations
-- modern frontend projects
-- developer tooling
-- performance optimization initiatives
-- AI-integrated applications
-
----
-
-# Connect
+## `> metrics-dashboard`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaren08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+<img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 </div>
 
----
+<br/>
+
+### Contribution Activity
 
 <div align="center">
 
-```txt
-Building systems with precision, scalability, and thoughtful design.
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaren08&bg_color=050b18&color=8B5CF6&line=06B6D4&point=ffffff&area_color=8B5CF620&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
+
+<br/>
+
+### Analytics
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Aaren08&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=94a3b8&bg_color=050b18&ring_color=8B5CF6&include_all_commits=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaren08&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=94a3b8&bg_color=050b18&langs_count=6"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aaren08&theme=transparent&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=64748b&currStreakNum=e2e8f0&sideNums=94a3b8&dates=475569&background=050b18" width="60%"/>
+
+</div>
+
+<br/>
+<img src=".github/assets/separator-thin.svg" width="100%"/>
+
+## `> featured-projects`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [BookWise](https://github.com/Aaren08/bookwise-JSM)
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma`
+
+> Enterprise-grade library management platform with dual-surface architecture — public reader interface and protected admin panel. Implements complete auth, real-time features, and transactional email integration.
+
+**Engineering highlights:**
+
+- Role-based access control across public/admin surfaces
+- Real-time data synchronization via Upstash Redis pub/sub and SSE layer
+- Transactional email service integration
+- Optimized Drizzle queries with connection pooling
+
+</td>
+<td width="50%" valign="top">
+
+### More Coming
+
+`In Progress`
+
+> Currently architecting a set of production-grade applications focused on AI-integrated workflows and developer tooling.
+
+**Planned scope:**
+
+- AI-augmented productivity tools
+- Realtime collaboration primitives
+- Open-source developer utilities
+- Performance-benchmarked UI systems
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+<img src=".github/assets/separator.svg" width="100%"/>
+
+## `> open-source-posture`
+
+<div align="center">
+
+I build in public, contribute upstream, and believe the best products start with the best developer experience.
+
+**Open to:**
+&nbsp;&nbsp;`Modern frontend projects` &nbsp;·&nbsp; `Developer tooling` &nbsp;·&nbsp; `Performance optimization` &nbsp;·&nbsp; `AI-integrated applications` &nbsp;·&nbsp; `OSS collaboration`
+
+</div>
+
+<br/>
+<img src=".github/assets/separator-thin.svg" width="100%"/>
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://github.com/Aaren08">
+  <img src="https://img.shields.io/badge/GitHub-Aaren08-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0F172A"/>
+</a>
+&nbsp;
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-View_Work-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src=".github/assets/separator.svg" width="100%"/>
+
+<div align="center">
+
 ```
+Building systems with precision, scalability, and deliberate design.
+```
+
+<sub>
+  <code>Last updated automatically every 12h via GitHub Actions</code>
+</sub>
+
+</div>
