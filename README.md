@@ -11,9 +11,10 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white&labelColor=0F172A)](https://your-portfolio.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0F172A)](https://linkedin.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0F172A)](https://www.linkedin.com/in/abdal-asad-671496356/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Aaren08)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0F172A)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0F172A)](mailto:engrabdalasad@gmail.com)
+[![Discord]()]
 
 </div>
 
@@ -110,19 +111,19 @@ const engineer = {
 
 #### Interface Layer
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css" height="40"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,vite,html,css" height="40"/>
 
 #### System Layer
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis,firebase" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,drizzle,redis,firebase" height="40"/>
 
 #### Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,bash,postman,vscode,linux" height="40"/>
+<img src="https://skillicons.dev/icons?i=git,github,bash,postman,vscode,linux" height="40"/>
 
 #### Expanding Into
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,aws" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" height="40"/>
 
 </div>
 
@@ -255,7 +256,7 @@ I build in public, contribute upstream, and believe the best products start with
   <img src="https://img.shields.io/badge/GitHub-Aaren08-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/abdal-asad-671496356/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0F172A"/>
 </a>
 &nbsp;
