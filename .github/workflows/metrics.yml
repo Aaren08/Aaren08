@@ -45,7 +45,7 @@ jobs:
 
           # Isometric calendar
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
 
           # Stars
           plugin_stars: yes
@@ -63,8 +63,9 @@ jobs:
           # Activity
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 14
+          plugin_activity_days: 7
           plugin_activity_filter: all
+          plugin_activity_visibility: public
 
           # Repositories
           plugin_repositories: yes
@@ -73,8 +74,8 @@ jobs:
 
           # Habits
           plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_from: 50
+          plugin_habits_days: 7
+          plugin_habits_from: 10
           plugin_habits_facts: no
           plugin_habits_charts: no
 
