@@ -560,7 +560,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I made a CLI tool that replaces the first 15 minutes of exploring any new codebase</div>
+                                <div class="title">How many Node.js apps can you run on a 2-core 1GB VPS with PM2? (The math)</div>
                                 <div class="date">3 Jun 2026</div>
                             </div>
                         </div>
@@ -569,7 +569,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Buscadores sin resúmenes de IA: el caso técnico para volver a los enlaces</div>
+                                <div class="title">Building a Conversational AI with Claude and ChatGPT APIs: A Practical Guide</div>
                                 <div class="date">3 Jun 2026</div>
                             </div>
                         </div>
@@ -578,7 +578,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My AIT Bangkok Journey Begins: From College Auditorium to Selection Day | Gautam Kumar Maurya</div>
+                                <div class="title">Agentes de IA: cómo un LLM razona, usa herramientas y actúa solo</div>
                                 <div class="date">3 Jun 2026</div>
                             </div>
                         </div>
@@ -587,7 +587,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I Feel Sorry for AI</div>
+                                <div class="title">Beyoneer Programming Interface for Plugins</div>
                                 <div class="date">3 Jun 2026</div>
                             </div>
                         </div>
@@ -1658,7 +1658,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1720,7 +1720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OWASP/CheatSheetSeries</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.</div>
@@ -1870,7 +1870,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2026, 07:33:10 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jun 2026, 21:11:48 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
